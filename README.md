@@ -49,23 +49,6 @@ The **U-KAN framework** has been evaluated on the **CVC-ClinicDB** dataset, a be
 
 ---
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/ukan-segmentation.git
-   cd ukan-segmentation
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download the CVC-ClinicDB dataset from [here](https://www.kaggle.com/datasets).
-
----
-
-
-
----
 
 ## Citation
 If you find this repository useful in your research, please cite:
