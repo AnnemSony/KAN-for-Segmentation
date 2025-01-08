@@ -64,21 +64,7 @@ The **U-KAN framework** has been evaluated on the **CVC-ClinicDB** dataset, a be
 
 ---
 
-## Usage
-1. Train the U-KAN model:
-   ```bash
-   python train.py --dataset_path /path/to/cvc_dataset --epochs 50
-   ```
 
-2. Evaluate the model:
-   ```bash
-   python evaluate.py --model_path /path/to/model.pth --dataset_path /path/to/cvc_dataset
-   ```
-
-3. Generate predictions:
-   ```bash
-   python predict.py --input_image /path/to/image.jpg --model_path /path/to/model.pth
-   ```
 
 ---
 
