@@ -44,8 +44,7 @@ The **U-KAN framework** has been evaluated on the **CVC-ClinicDB** dataset, a be
 | IoU          | 0.897       | 0.854                     |
 
 ### Visual Results
-| Input Image     | Ground Truth   | U-KAN Prediction |
-|-----------------|----------------|------------------|
+| U-KAN Prediction |
 |[Prediction](461_overlay.jpg) |
 
 ---
