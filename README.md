@@ -54,7 +54,7 @@ The **U-KAN framework** has been evaluated on the **MetaSA1B** dataset, which in
 ## Dataset
 
 The **MetaSA1B** dataset used in this project includes both images and corresponding masks. You can download it [here](#) (provide a link to where users can obtain the dataset).
-![META Dataset](Screenshot(8).png)
+![META Dataset](https://github.com/AnnemSony/KAN-for-Segmentation/blob/main/Screenshot%20(8).png)
 
 ## Installation
 
