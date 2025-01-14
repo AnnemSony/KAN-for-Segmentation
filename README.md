@@ -1,7 +1,5 @@
 # U-KAN: Segmentation Framework
 
-## Overview
-
 The **U-KAN (Segmentation Using Key-Attention Network)** framework is a novel deep learning architecture designed for segmentation tasks. U-KAN leverages a hybrid encoder-decoder structure combined with attention-based Tokenized Key-Attention Network (Tok-KAN) blocks to achieve efficient and accurate segmentation results.
 ### Architecture Diagram
 ![U-KAN Architecture](all.png)
