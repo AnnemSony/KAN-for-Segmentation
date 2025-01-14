@@ -4,16 +4,6 @@ The **U-KAN (Segmentation Using Key-Attention Network)** framework is a novel de
 ### Architecture Diagram
 ![U-KAN Architecture](all.png)
 
-
-## Features
-
-- **Attention Mechanism**: Utilizes Tokenized KAN (Tok-KAN) blocks to capture long-range dependencies and enhance feature learning.
-- **Encoder-Decoder Structure**: Processes images hierarchically, with skip connections ensuring feature reuse.
-- **Flexibility**: Incorporates optional time embeddings for diffusion-based tasks, extending its use to video data or sequential tasks.
-- **Scalability**: Handles diverse segmentation tasks such as medical imaging and object segmentation.
-
-## Architecture
-
 ### Key Components
 
 1. **Encoder**
