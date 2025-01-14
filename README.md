@@ -28,7 +28,7 @@ The **U-KAN (Segmentation Using Key-Attention Network)** framework is a novel de
 The **MetaSA1B** dataset used in this project includes both images and corresponding masks. You can download it [https://ai.meta.com/datasets/segment-anything-downloads/](#).
 
 ![META Dataset](https://github.com/AnnemSony/KAN-for-Segmentation/blob/main/Screenshot%20(8).png)
-Download and place dataset (images and masks) in inputs folder in the formate:
+Download and place dataset (images and masks) in inputs folder.
 
 ## Installation
 
