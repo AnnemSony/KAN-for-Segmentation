@@ -37,4 +37,6 @@ To set up the U-KAN segmentation framework, follow these steps:
    ```bash
    git clone https://github.com/AnnemSony/U-KAN-Segmentation.git
    cd U-KAN-Segmentation
+   python train.py --arch UKAN --dataset cvc --input_w 256 --input_h 256 --name cvc_UKAN --data_dir ./inputs
+
 
