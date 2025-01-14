@@ -33,27 +33,10 @@ The **U-KAN (Segmentation Using Key-Attention Network)** framework is a novel de
 ### Architecture Diagram
 ![U-KAN Architecture](all.png)
 
-## Results on MetaSA1B Dataset
-
-The **U-KAN framework** has been evaluated on the **MetaSA1B** dataset, which includes images and their corresponding ground truth masks.
-
-### Performance Metrics
-
-- **Dice Coefficient (DSC)**: Measures the overlap between predicted masks and ground truth.
-- **IoU (Intersection over Union)**: Evaluates the accuracy of segmentation.
-
-| **Metric**   | **U-KAN**   | **Baseline (e.g., UNet)** |
-|--------------|-------------|---------------------------|
-| Dice (DSC)   | 0.923       | 0.876                     |
-| IoU          | 0.897       | 0.854                     |
-
-### Visual Results
-
-![Prediction Example](path_to_visual_result.jpg)
 
 ## Dataset
 
-The **MetaSA1B** dataset used in this project includes both images and corresponding masks. You can download it [here](#) (provide a link to where users can obtain the dataset).
+The **MetaSA1B** dataset used in this project includes both images and corresponding masks. You can download it [https://ai.meta.com/datasets/segment-anything-downloads/](#).
 ![META Dataset](https://github.com/AnnemSony/KAN-for-Segmentation/blob/main/Screenshot%20(8).png)
 
 ## Installation
