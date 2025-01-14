@@ -49,24 +49,7 @@ The **U-KAN framework** has been evaluated on the **CVC-ClinicDB** dataset, a be
 
 ---
 
-
-## Citation
-If you find this repository useful in your research, please cite:
-
-```
-@article{ukan2024,
-  title={Segmentation Using Key-Attention Network (U-KAN)},
-  author={Author Name},
-  journal={Journal Name},
-  year={2024},
-  volume={X},
-  pages={X--Y}
-}
-```
-
----
-
-## Acknowledgments
+# Acknowledgments
 - The authors of the CVC-ClinicDB dataset.
 - Libraries: PyTorch, NumPy, OpenCV.
 
